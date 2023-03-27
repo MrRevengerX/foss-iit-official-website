@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foss-iit-official-website/static/css/main.ccb96431.css",
-    "main.js": "/foss-iit-official-website/static/js/main.f9794fc5.js",
+    "main.js": "/foss-iit-official-website/static/js/main.032bce37.js",
     "static/js/787.0a66066f.chunk.js": "/foss-iit-official-website/static/js/787.0a66066f.chunk.js",
     "static/media/background.svg": "/foss-iit-official-website/static/media/background.c3f6c762aa11d52a8fd5.svg",
     "static/media/FOSS IIT logo.png": "/foss-iit-official-website/static/media/FOSS IIT logo.bd69c7fa517184a32c3a.png",
@@ -24,11 +24,11 @@
     "index.html": "/foss-iit-official-website/index.html",
     "static/media/mongodb-logo.svg": "/foss-iit-official-website/static/media/mongodb-logo.36dd21899b6b0abac091619cff0af796.svg",
     "main.ccb96431.css.map": "/foss-iit-official-website/static/css/main.ccb96431.css.map",
-    "main.f9794fc5.js.map": "/foss-iit-official-website/static/js/main.f9794fc5.js.map",
+    "main.032bce37.js.map": "/foss-iit-official-website/static/js/main.032bce37.js.map",
     "787.0a66066f.chunk.js.map": "/foss-iit-official-website/static/js/787.0a66066f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccb96431.css",
-    "static/js/main.f9794fc5.js"
+    "static/js/main.032bce37.js"
   ]
 }
